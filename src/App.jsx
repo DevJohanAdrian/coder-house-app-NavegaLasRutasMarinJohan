@@ -9,7 +9,7 @@ function App() {
   return (
     <>
      <NavbarMenu/>
-     <Catalogo msg='Sere un catalogo mensaje de prueba mensaje de bienbenida'/>  
+     <Catalogo msg='Sere un catalogo mensaje de prueba mensaje de bienvenida'/>  
     </>
   )
 }
