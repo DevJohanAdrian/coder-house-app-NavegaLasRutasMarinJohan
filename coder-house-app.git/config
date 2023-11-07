@@ -5,6 +5,4 @@
 	symlinks = false
 	ignorecase = true
 [remote "origin"]
-	url = https://github.com/DevJohanAdrian/CreaTuLandingPage-MarinGarciaJohan.git
-	fetch = +refs/*:refs/*
-	mirror = true
+	url = https://github.com/DevJohanAdrian/coder-house-app.git

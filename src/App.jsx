@@ -1,17 +1,27 @@
 
 import './App.css'
-import {NavbarMenu} from './lading-page/components'
-import {Catalogo}  from './catalogo/components'
+// import {NavbarMenu} from './lading-page'
+// import {Cards}  from './cards'
+import { AppRouter } from './router/AppRouter'
+import { BrowserRouter} from 'react-router-dom'
+
 
 function App() {
  
 
   return (
     <>
-     <NavbarMenu/>
-     <Catalogo msg='Sere un catalogo mensaje de prueba mensaje de bienvenida'/>  
+      <BrowserRouter>
+      
+        <AppRouter/>
+
+      </BrowserRouter>
+     {/* <NavbarMenu/>
+     <Cards/>   */}
     </>
   )
 }
 
 export default App
+
+
