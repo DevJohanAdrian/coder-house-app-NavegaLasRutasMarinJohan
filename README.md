@@ -1,4 +1,4 @@
-SiTIO ARTISTA STORE
+SITIO ARTISTA STORE
 ===========
 
 Descripción
