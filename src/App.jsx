@@ -16,8 +16,7 @@ function App() {
         <AppRouter/>
 
       </BrowserRouter>
-     {/* <NavbarMenu/>
-     <Cards/>   */}
+
     </>
   )
 }

@@ -6,3 +6,4 @@ export const PicturePage = () => {
     <CardGeneral category={'C01'} />
   );
 }
+

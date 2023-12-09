@@ -1,39 +1,17 @@
-
-// export const cards = [
-//     {
-//       id: 1,
-//       title: "Fazt Web",
-//       image: image1,
-//       url: "https://faztweb.com",
-//     },
-//     {
-//       id: 2,
-//       title: "Fazt Blog",
-//       image: image2,
-//       url: "https://blog.faztweb.com",
-//     },
-//     {
-//       id: 3,
-//       title: "Fazt Youtube",
-//       image: image3,
-//       url: "https://youtube.com/fazttech",
-//     },
-//   ];
-
   export const artList = [
     {
         'id': 'pt-noche-helada',
         'title':'NOCHE HELADA', 
         'autor':'SAKAR', 
-        'description':'Pintura en oleo, Noche helada en noruega',
+        'description':'Pintura en oleo, Noche helada en noruega.',
         'dimensiones':'90 X 110 X 2 cm',
         'category':'C01'
     },
     {
         'id': 'pt-casa-jardin',
         'title':'CAMINO DE PAZ', 
-        'autor':'SAKAR.', 
-        'description':'Pintura en oleo',
+        'autor':'SAKAR', 
+        'description':'Pintura en oleo.',
         'dimensiones':'90 X 110 X 2 cm',
         'category':'C01'
     },
@@ -95,7 +73,7 @@
     },
     {
         'id': 'es-pueblo-victoriano',
-        'title':'PUEBLO VICTORIANO2', 
+        'title':'PUEBLO VICTORIANO', 
         'autor':'Johan Poe.', 
         'description':'Escultura en marco en madera tallad',
         'dimensiones':'90 X 110 X 2 cm',
@@ -116,69 +94,6 @@
         'description':'4 figuras talladas en madera.',
         'dimensiones':'27 cm',
         'category':'C02'
-    },
-    // {
-    //     'id': 'marvel-iron',
-    //     'title':'Iron Man', 
-    //     'autor':'Marvel Comics', 
-    //     'description':'Tony Stark',
-    //     ''dimensiones':'90 X 110 X 2 cm',':'Tales of Suspense #39',
-    //     'category':'Tony Stark'
-    // },
-    // {
-    //     'id': 'marvel-thor',
-    //     'title':'Thor', 
-    //     'autor':'Marvel Comics', 
-    //     'description':'Thor Odinson',
-    //     ''dimensiones':'90 X 110 X 2 cm',':'Journey into Myster #83',
-    //     'category':'Thor Odinson'
-    // },
-    // {
-    //     'id': 'marvel-hulk',
-    //     'title':'Hulk', 
-    //     'autor':'Marvel Comics', 
-    //     'description':'Bruce Banner',
-    //     ''dimensiones':'90 X 110 X 2 cm',':'The Incredible Hulk #1',
-    //     'category':'Bruce Banner'
-    // },
-    // {
-    //     'id': 'marvel-wolverine',
-    //     'title':'Wolverine', 
-    //     'autor':'Marvel Comics', 
-    //     'description':'James Howlett',
-    //     ''dimensiones':'90 X 110 X 2 cm',':'The Incredible Hulk #180',
-    //     'category':'James Howlett'
-    // },
-    // {
-    //     'id': 'marvel-daredevil',
-    //     'title':'Daredevil', 
-    //     'autor':'Marvel Comics', 
-    //     'description':'Matthew Michael Murdock',
-    //     ''dimensiones':'90 X 110 X 2 cm',':'Daredevil #1',
-    //     'category':'Matthew Michael Murdock'
-    // },
-    // {
-    //     'id': 'marvel-hawkeye',
-    //     'title':'Hawkeye', 
-    //     'autor':'Marvel Comics', 
-    //     'description':'Clinton Francis Barton',
-    //     ''dimensiones':'90 X 110 X 2 cm',':'Tales of Suspense #57',
-    //     'category':'Clinton Francis Barton'
-    // },
-    // {
-    //     'id': 'marvel-cyclops',
-    //     'title':'Cyclops', 
-    //     'autor':'Marvel Comics', 
-    //     'description':'Scott Summers',
-    //     ''dimensiones':'90 X 110 X 2 cm',':'X-Men #1',
-    //     'category':'Scott Summers'
-    // },
-    // {
-    //     'id': 'marvel-silver',
-    //     'title':'Silver Surfer', 
-    //     'autor':'Marvel Comics', 
-    //     'description':'Norrin Radd',
-    //     ''dimensiones':'90 X 110 X 2 cm',':'The Fantastic Four #48',
-    //     'category':'Norrin Radd'
-    // }
+    }
+   
 ]
